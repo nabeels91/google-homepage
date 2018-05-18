@@ -1,0 +1,322 @@
+body {
+    font-family: Serif;
+    color: dimgray;
+    margin:0 auto;
+    font-family: arial, sans-serif;
+    min-width:950px;
+  
+
+
+}
+div.navbar {
+    float: right;
+    position: static;
+    width: 300px;
+    height: 30px;
+    margin:19px;
+    height:0%;
+
+}
+
+div.navbar1_2 {
+    float: left;
+    font-size: small;
+
+}
+
+div.navbar2_2 {
+    position: relative;
+    float: right;
+    margin-right: 5px;
+
+}
+a {
+    text-decoration:none;
+    color: dimgray;
+    vertical-align: middle;
+    float: left;
+    padding: 6px;
+}
+
+#text {
+    float: left;
+    vertical-align: middle;
+    padding:6px;
+    color: black;
+}
+
+#text2 {
+    float: left;
+    vertical-align: middle;
+    padding:6px;
+    color: black;
+}
+
+
+
+#Actualimage{
+     height: 22px;
+     width:22px;
+     border-radius: 50%;
+     padding-right:6px;padding-left: 6px;
+     position: relative;
+     vertical-align: middle;
+     top:-1px;
+
+ }
+
+#Actualimage:hover {
+    opacity: 0.5;
+
+}
+
+img#vangogh{
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    padding-right:6px;padding-left: 6px;
+
+}
+#vangogh:hover{
+    opacity: 0.7;
+}
+
+#unique{
+    padding:0px;
+}
+
+div.c1 {
+    height: 130px;
+    width: 272px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+.goBox{
+    position: relative;
+    height: 50px;
+    width: 280px;
+    top: 30px;
+    font-size: large;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.goBox1{
+    position: absolute;
+    height: 50px;
+    width: 280px;
+    top: 30px;
+    font-size: large;
+    float: left;
+
+}
+
+#googleSearch {
+    border-radius: 2px;
+    color: #757575;
+    font-size: 13px;
+    width:126px;
+    height:36px;
+    font-family:  Arial;
+    background-color: #f2f2f2;
+    font-weight: bold;
+    padding: 0 16px;
+    border: 1px solid #f2f2f2;
+    float: left;
+    margin-right: 7px;
+
+}
+#googleSearch1 {
+    border-radius: 2px;
+    color: #757575;
+    font-size: 13px;
+    width:126px;
+    height:36px;
+    font-family:  Arial;
+    background-color: #f2f2f2;
+    font-weight: bold;
+    padding: 0 16px;
+    border: 1px solid #f2f2f2;
+    float: left;
+    margin-right: 7px;
+
+
+}
+#feelingLucky {
+    float: right;
+    border-radius: 2px;
+    color: #757575;
+    font-size: 13px;
+    width: 143px;
+    height: 36px;
+    font-family: Arial;
+    background-color: #f2f2f2;
+    font-weight: bold;
+    padding: 0 16px;
+    border: 1px solid #f2f2f2;
+
+}
+
+#searchBox{
+
+    box-sizing: border-box;
+    height: 100px;
+    width: 550px;
+    text-align: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+input{
+    position: relative;
+    height: 38px;
+    width:500px;
+    border: 1px solid #ccc;
+
+    font-size: large ;
+    font-family: arial;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+img.google {
+    height: 92px;
+    width: 272px;
+    position: relative;
+
+}
+
+#clear{
+    clear: both;
+}
+
+div#ireland{
+    position: relative;
+    top:-30px;
+    right: 3px;
+    color: blue;
+    text-align: right;
+    font-size:16px roboto-regular, arial, sans-serif;
+}
+
+
+div.logoNinput{
+    position: relative;
+    top:150px;
+    margin-right: auto;
+    margin-left: auto;
+    vertical-align: middle;
+
+}
+
+
+#gooo {
+    text-align: center;
+    position: relative;
+    top: 40px;
+    line-height: 28px;
+    font-size: 14px;
+    color: black;
+    font-family: arial;
+    max-width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+
+
+}
+
+a#shit{
+    color: blue;
+    padding: 0px;
+    float: none;
+    vertical-align: top;
+
+}
+
+
+.footer {
+    background-color: #f2f2f2;
+    width: 100%;
+    bottom: 0;
+    font-size: 10pt;
+    height: 35px;
+    position: absolute;
+    border-top: 1px solid #ccc;
+    margin-top: 10px;
+    min-width: 950px;
+
+}
+#left{
+
+    display: inline-block;
+    float: left;
+    width: 300px;
+    height: 10px;
+    padding: 10px;
+    padding-left: 40px;
+
+
+}
+
+#right{
+    display: inline-block;
+    float: right;
+    width: 400px;
+    
+    padding: 10px;
+
+
+
+}
+
+#f1 {
+    width:100px;
+    float: left;
+    position: relative;
+
+}
+
+#f2 {
+
+    width:100px;
+    float: left;
+    position: relative;
+
+
+}
+#f3 {
+    width:100px;
+    float: left;
+    position: relative;
+
+
+
+}
+#f4 {
+    width:100px;
+    float: right;
+    position: relative;
+
+
+}
+#f5 {
+
+    width:100px;
+    float: right;
+    position: relative;
+
+
+}
+#f6 {
+
+    width:100px;
+    float: right;
+    position: relative;
+
+
+}
